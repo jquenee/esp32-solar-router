@@ -9,3 +9,6 @@ ESP32 Solar Router based on GCE IPX800
 * R1 : 10 kΩ, 1/4W ou 1/8W
 * R2 : 1.5kΩ, 1/4W ou 1/8W
 * GCE IPX800
+
+# Schema
+![schema](schema-solar-router.jpg)
