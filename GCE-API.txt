@@ -1,0 +1,4 @@
+http://192.168.1.240/api/xdevices.json?key=apikey&Get=all
+http://192.168.1.240/api/xdevices.json?key=apikey&ToggleR=11
+http://192.168.1.240/api/xdevices.json?key=apikey&SetR=11
+http://192.168.1.240/api/xdevices.json?key=apikey&ClearR=11
